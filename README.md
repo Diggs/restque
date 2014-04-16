@@ -27,7 +27,7 @@ Restque then serves 2 main functions in the pursuit of a better user experience:
 
 Consider the simple backbone.js example below:
 
-```
+``` javascript
 define([
     'backbone',
     'underscore'
